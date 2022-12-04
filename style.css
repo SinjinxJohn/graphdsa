@@ -37,14 +37,31 @@ body {
 {
 	background: whitesmoke; 
 	color:#000000; 
+	padding-bottom: 8px;
   
   
 
+}
+.psue{
+	
+	/* padding-bottom: px; */
+
+	background-color: greenyellow;
+	color: black;
+	height: 130px;
+	align-items: center;
+	width: 50%;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #000000;
+	
+	
 }
 
 
 .VisualizationMainPage #generalAnimationControlSection
 {
+	padding-top: 20px;
 	background: whitesmoke; 
 	color:#3d18b7; 
 
@@ -53,7 +70,7 @@ body {
 .VisualizationMainPage  #header { 
 	background: black;
 	font-family: serif;
-	font-size: 15px;
+	font-size: 13px;
 
 	color:white;
 	padding: 10px 20px 10px 20px; 
