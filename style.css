@@ -51,7 +51,10 @@ body {
 }
 
 .VisualizationMainPage  #header { 
-	background: #182747; 
+	background: black;
+	font-family: serif;
+	font-size: 15px;
+
 	color:white;
 	padding: 10px 20px 10px 20px; 
   
